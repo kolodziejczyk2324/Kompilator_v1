@@ -1,0 +1,9 @@
+{ sito Erastotenesa }
+VAR
+	n silnia k inne
+BEGIN
+	n := 4294967303;
+	k := 4294967301;
+	silnia := n * k;
+	WRITE silnia;
+END
